@@ -44,3 +44,4 @@ lerna-debug.log*
 functions/**/*.js
 
 bun.lockb
+/tmp
