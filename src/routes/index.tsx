@@ -7,8 +7,8 @@ export default component$(() => {
   return (
     <>
       <div class="center">
-        <h1><IconCast style={{width: 100, height: 100}} /><br />Unstream</h1>
-        <p>A self taught fullstack developer.</p>
+        <h1><IconCast style={{width: 100, height: 100}} /><br />darealyeeto</h1>
+        <p>professional idiot</p>
         <p><a href="https://i.wont.stream/github" aria-label="GitHub">GitHub</a></p>
       </div>
     </>
@@ -17,11 +17,11 @@ export default component$(() => {
 
 
 export const head: DocumentHead = {
-  title: "Unstream",
+  title: "darealyeeto",
   meta: [
     {
       name: "description",
-      content: "A self taught fullstack developer.",
+      content: "professional idiot",
     },
   ],
 };
