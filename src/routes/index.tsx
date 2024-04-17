@@ -9,7 +9,8 @@ export default component$(() => {
       <div class="center">
         <h1><IconCast style={{width: 100, height: 100}} /><br />darealyeeto</h1>
         <p>professional idiot</p>
-        <p><a href="https://i.wont.stream/github" aria-label="GitHub">GitHub</a></p>
+        <p><a href="https://youtube.com/@darealyeeto" aria-label="YouTube">YouTube</a>
+        <a href="https://discord.gg/yYHhNBdAmg" aria-label="Discord">Discord</a></p>
       </div>
     </>
   );
